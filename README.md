@@ -26,16 +26,3 @@ The application implements WebSocket connection for chat features. However, in t
   ```
 
 Because `results` is empty, no valid `conversation_id` is available to initiate the WebSocket connection (which requires a valid ID). The app handles this by displaying a "No Groups Found" message.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
